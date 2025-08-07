@@ -1,0 +1,10 @@
+﻿  Character.cpp
+D:\GECSemester2Week1\GECSemester2Week1\Character.h(14,37): error C2061: syntax error: identifier 'string'
+D:\GECSemester2Week1\GECSemester2Week1\Character.cpp(6,12): error C2511: 'Character::Character(SDL_Renderer *,std::string,Vector2D)': overloaded member function not found in 'Character'
+D:\GECSemester2Week1\GECSemester2Week1\Character.h(11): message : see declaration of 'Character'
+D:\GECSemester2Week1\GECSemester2Week1\Character.cpp(8,2): error C2597: illegal reference to non-static member 'Character::mRenderer'
+D:\GECSemester2Week1\GECSemester2Week1\Character.h(23): message : see declaration of 'Character::mRenderer'
+D:\GECSemester2Week1\GECSemester2Week1\Character.cpp(9,2): error C2597: illegal reference to non-static member 'Character::mTexture'
+D:\GECSemester2Week1\GECSemester2Week1\Character.h(25): message : see declaration of 'Character::mTexture'
+D:\GECSemester2Week1\GECSemester2Week1\Character.cpp(10,2): error C2597: illegal reference to non-static member 'Character::mPosition'
+D:\GECSemester2Week1\GECSemester2Week1\Character.h(24): message : see declaration of 'Character::mPosition'
